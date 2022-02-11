@@ -16,7 +16,7 @@ ga('send', 'pageview');
 
 /***/ }),
 
-/***/ 436:
+/***/ 606:
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 "use strict";
@@ -119,7 +119,7 @@ var __webpack_exports__ = {};
 "use strict";
 /* harmony import */ var _analytics__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(559);
 /* harmony import */ var _analytics__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_analytics__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _favicon_ico__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(436);
+/* harmony import */ var _favicon_ico__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(606);
 
 
 
